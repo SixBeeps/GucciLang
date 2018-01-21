@@ -1,0 +1,7 @@
+c:\users\brand\source\repos\GucciGang\GucciGang\bin\Debug\GucciGang.exe.config
+c:\users\brand\source\repos\GucciGang\GucciGang\bin\Debug\GucciGang.exe
+c:\users\brand\source\repos\GucciGang\GucciGang\bin\Debug\GucciGang.pdb
+c:\users\brand\source\repos\GucciGang\GucciGang\obj\Debug\GucciLang.csprojResolveAssemblyReference.cache
+c:\users\brand\source\repos\GucciGang\GucciGang\obj\Debug\GucciLang.csproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\GucciGang\GucciGang\obj\Debug\GucciGang.exe
+c:\users\brand\source\repos\GucciGang\GucciGang\obj\Debug\GucciGang.pdb
